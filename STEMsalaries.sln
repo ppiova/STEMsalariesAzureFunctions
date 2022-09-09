@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "STEMsalariesModelBuilder", "STEMsalariesModelBuilder\STEMsalariesModelBuilder.csproj", "{0538D25A-5F0B-44FE-A6FA-98DA331BE550}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "STEMsalariesFunction", "STEMsalariesFunction\STEMsalariesFunction.csproj", "{84A4D1E0-7C36-4E3E-89B6-D16773E1E804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0538D25A-5F0B-44FE-A6FA-98DA331BE550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0538D25A-5F0B-44FE-A6FA-98DA331BE550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0538D25A-5F0B-44FE-A6FA-98DA331BE550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0538D25A-5F0B-44FE-A6FA-98DA331BE550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A4D1E0-7C36-4E3E-89B6-D16773E1E804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A4D1E0-7C36-4E3E-89B6-D16773E1E804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A4D1E0-7C36-4E3E-89B6-D16773E1E804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A4D1E0-7C36-4E3E-89B6-D16773E1E804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D30775-86A7-44B8-9AEA-416AB9567474}
+	EndGlobalSection
+EndGlobal
